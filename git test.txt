@@ -1,2 +1,4 @@
 hello
+<<<<<<< HEAD
 how are you, Thanh
+
